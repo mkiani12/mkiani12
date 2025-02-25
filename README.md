@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏬I'm currently working on the ASAM Company <br>🤝I'm looking to collaborate on Front-end developing<br>🌐I'm looking for help with developing web applications<br>📖I'm currently learning NodeJS Python and Ai Developing<br>🤞Ask me about the web, NuxtJS, and other web tools<br>Some fun facts about me :<br>-🎮 I like to play video games in my free time<br>-💻 I have a cute laptop named Ghasem<br>-☕ I can’t start my day without a cup of coffee
+🏬I'm currently working on the ASAM Company <br>🤝I'm looking to collaborate on Fullstack developing<br>🌐I'm looking for help with developing web applications<br>📖I'm currently learning NodeJS Python and Ai Developing<br>🤞Ask me about the web, NuxtJS, and other web tools<br>Some fun facts about me :<br>-🎮 I like to play video games in my free time<br>-💻 I have a cute laptop named Ghasem<br>-☕ I can’t start my day without a cup of coffee
 
 
 ## 🌐 Socials:
